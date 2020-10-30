@@ -1,5 +1,5 @@
 {
-    "name": "laravel-echo",
+    "name": "laravel-echo-uniapp",
     "version": "1.8.1",
     "description": "Laravel Echo library for beautiful Pusher and Socket.IO integration",
     "keywords": [
@@ -7,10 +7,10 @@
         "pusher",
         "socket.io"
     ],
-    "homepage": "https://github.com/laravel/echo",
+    "homepage": "https://github.com/wuzhuang102/echo",
     "repository": {
         "type": "git",
-        "url": "https://github.com/laravel/echo"
+        "url": "https://github.com/wuzhuang102/echo"
     },
     "license": "MIT",
     "author": {
@@ -36,6 +36,7 @@
         "@babel/plugin-proposal-throw-expressions": "^7.8.3",
         "@babel/plugin-transform-object-assign": "^7.8.3",
         "@babel/preset-env": "^7.9.6",
+        "@hyoga/uni-socket.io": "^1.0.1",
         "@rollup/plugin-babel": "^5.0.0",
         "@types/jest": "^24.0.18",
         "@types/node": "^12.7.5",

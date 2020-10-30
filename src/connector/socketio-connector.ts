@@ -1,5 +1,6 @@
 import { Connector } from './connector';
 import { SocketIoChannel, SocketIoPrivateChannel, SocketIoPresenceChannel } from './../channel';
+import io from '@hyoga/uni-socket.io'
 
 /**
  * This class creates a connnector to a Socket.io server.

@@ -7,6 +7,10 @@
 <a href="https://www.npmjs.com/package/laravel-echo"><img src="https://img.shields.io/npm/l/laravel-echo" alt="License"></a>
 </p>
 
+## 写在前面
+本仓库是 fork laravel-echo 的，改造成可以在 uni-app 上使用的版本
+
+
 ## Introduction
 
 In many modern web applications, WebSockets are used to implement realtime, live-updating user interfaces. When some data is updated on the server, a message is typically sent over a WebSocket connection to be handled by the client. This provides a more robust, efficient alternative to continually polling your application for changes.
