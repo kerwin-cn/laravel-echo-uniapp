@@ -1,6 +1,6 @@
 {
     "name": "laravel-echo-uniapp",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "description": "Laravel Echo library for beautiful Pusher and Socket.IO integration",
     "keywords": [
         "laravel",
